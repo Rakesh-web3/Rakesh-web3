@@ -1,34 +1,48 @@
-# Hey there 👋 I am Rakesh-web3
+# Hey there 👋 I’m Rakesh-web3 🚀
 
-💻 Early Protocal User,
-Network Activity Generator, Incentive Aligner, 
-Testnet Participant, 
-Governance Signal Provider, Community Amplifier.
+💻 Early Protocol User | Network Activity Generator | Incentive Aligner  
+🧪 Testnet Participant | Governance Signal Provider | Community Amplifier
 
-🚀 Loves to Do Blockchain Activity & Testnet Participant.
+🚀 Passionate about Blockchain activity, testnets, and decentralized ecosystems
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on -Trading (spot, futures, scalping, swing)
--Long-term investing
--Building something (DeFi project, token, bot, smart contracts)
--Research / content / community management
--Mining or infrastructure.
+## 👨‍💻 About Me
+- 🔭 Currently working on:
+  - 📈 Trading (Spot, Futures, Scalping, Swing)
+  - 💰 Long-term Investing
+  - 🧠 Building: DeFi projects, Tokens, Bots, Smart Contracts
+  - 📊 Research, Content & Community Management
+  - ⛏️ Mining & Blockchain Infrastructure
 
-- 🌱 I’m learning Cloud, DevOps
-
-- 💬 Ask me about (CRYPTO Airdrops)
-
-- ⚡ Fun fact: Chess Champ ♟️
-
----
-
-### 🛠️ Tech Stack
-- DevOps: GCS,  Docker, GitHub Actions  
+- 🌱 Learning Cloud & DevOps
+- 💬 Ask me about Crypto Airdrops
+- ⚡ Fun fact: Chess Champion ♟️
 
 ---
 
-### 📫 Connect with Me
-- LinkedIn:  https://www.linkedin.com/in/rakesh-kumar-7b0b34202
-- X (Twitter): https://x.com/rksinghaniyas
+## 🛠️ Tech Stack
+### ⚙️ DevOps & Tools
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh-web3&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakesh-web3&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/rakesh-kumar-7b0b34202
+- 🐦 X (Twitter): https://x.com/rksinghaniyas
+
+---
+
+⭐ Actively contributing to Web3 ecosystems — always exploring the next protocol
