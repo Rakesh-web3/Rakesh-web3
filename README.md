@@ -43,6 +43,7 @@
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/rakesh-kumar-7b0b34202
 - 🐦 X (Twitter): https://x.com/rksinghaniyas
+- 🌐 **Peerlist**: https://peerlist.io/rakeshsui
 
 ---
 
